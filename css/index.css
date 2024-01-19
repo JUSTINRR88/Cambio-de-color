@@ -1,0 +1,23 @@
+.div{
+    display: flex;
+    width: 300px;
+    height: 200px;
+    border: 10px solid black;
+    flex-direction: row;
+    gap: 20px;
+    
+}
+.saludo{
+    height: 1000px;
+    width: 100px;
+   font-size: 50px; 
+} 
+
+.rojo {
+    background-color: red;
+    cursor: pointer;
+}
+.azul{
+    background-color: blue;
+    cursor: pointer;
+}
